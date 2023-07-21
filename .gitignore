@@ -1,0 +1,24 @@
+# Compiled Python Files
+*.pyc
+pycache/
+
+# Distribution/packaging
+.Python
+env/
+build/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+sdist/
+
+# docker-in-docker
+.docker
+
+# Editor and IDE files
+.vscode/
+
+# Virtual environment
+*.env
+bookstoreenv/
